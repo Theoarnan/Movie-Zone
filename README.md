@@ -1,4 +1,4 @@
-# theo_movie_app_flutter
+# Movie Zone
 
 A new Flutter project.
 
